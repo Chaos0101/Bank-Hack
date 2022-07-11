@@ -11,25 +11,36 @@ bank123 = input('Enter The Website Of The Bank: ')
 money123 = input('Enter amount: ')
 print ('Loading...')
 time.sleep(5)
+print (' ')
 print ('█▒▒▒▒▒▒▒▒▒ 10%')
+print (' ')
 time.sleep(2)
 print ('██▒▒▒▒▒▒▒▒ 20%')
+print (' ')
 time.sleep(3)
 print ('███▒▒▒▒▒▒▒ 30%')
+print (' ')
 time.sleep(1)
 print ('████▒▒▒▒▒▒ 40%')
+print (' ')
 time.sleep(3)
 print ('█████▒▒▒▒▒ 50%')
+print (' ')
 time.sleep(2)
 print ('██████▒▒▒▒ 60%')
+print (' ')
 time.sleep(3)
 print ('███████▒▒▒ 70%')
+print (' ')
 time.sleep(2)
 print ('████████▒▒ 80%')
+print (' ')
 time.sleep(3)
 print ('█████████▒ 90%')
+print (' ')
 time.sleep(1)
 print ('██████████ 100%')
+print (' ')
 
 time.sleep(4)
 print ('Password Found Successfuly!')
@@ -64,7 +75,8 @@ if sure123 == "Y":
                print ('Password: '+ pass123)
                print ('Bank Account: '+ bank123)
                print ('Amount: '+ money123)
-               print ('')
+               print (' ')
+               time.sleep(10)
                print ('Press Enter To Steal The Money')
                url = ('https://www.tomorrowtides.com/iambankhackerbruterlolstealmoneycom.html')
                webbrowser.open_new(url)
@@ -72,6 +84,28 @@ if sure123 == "Y":
                print ('You Just Got...')
                time.sleep(2)
                print ('''
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
